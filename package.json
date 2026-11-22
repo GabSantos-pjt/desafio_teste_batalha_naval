@@ -1,0 +1,10 @@
+{
+  "name": "desafio-teste-batalha-naval",
+  "version": "1.0.0",
+  "description": "Casos de teste em JavaScript - desafio_teste_batalha_naval",
+  "main": "src/index.js",
+  "scripts": { "test": "node --test" },
+  "engines": { "node": ">=18" },
+  "author": "Gabriel Santos Furlanette",
+  "license": "MIT"
+}
